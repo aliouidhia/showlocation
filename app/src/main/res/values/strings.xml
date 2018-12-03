@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowLocation</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="unknown">Unknown</string>
+    <string name="show_my_location">Change Map Type</string>
+</resources>
